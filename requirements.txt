@@ -1,0 +1,7 @@
+gymnasium[box2d]
+stable-baselines3
+pygame
+opencv-python
+matplotlib
+swig
+box2d-py==2.3.8
