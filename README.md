@@ -16,9 +16,6 @@ This project applies Proximal Policy Optimization (PPO) algorithm to train a dee
 - **Average Fuel Usage:** 67.00
 - **Success Rate (Reward > 200):** 60%
 
-Example dashboard output:
-
-![Dashboard](outputs/lunarlander_dashboard.png)
 
 ## 🏗 Project Structure
 
